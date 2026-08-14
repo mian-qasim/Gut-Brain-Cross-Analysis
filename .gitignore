@@ -1,0 +1,20 @@
+# Raw data directories exclusions
+data/
+*.csv
+*.tsv
+*.xlsx
+*.h5ad
+*.json
+
+# Python environment exclusions
+__pycache__/
+*.pyc
+.env
+.venv
+env/
+venv/
+.DS_Store
+
+# IDE exclusions
+.vscode/
+.idea/
