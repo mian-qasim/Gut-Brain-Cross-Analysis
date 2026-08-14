@@ -1,6 +1,9 @@
 # Predicting Spaceflight-Induced Neuroinflammation via Computational Metabolite Inference
 
-Cross-analysis of publicly available mouse spaceflight multi-omics data from the gut and brain, identifying reproducible relationships between gut microbiome alterations and brain neuroinflammatory signatures. A literature-informed inferred serum layer will be constructed to investigate whether circulating molecular changes can serve as an intermediary between the gut and brain. relationships will then be used to develop a predictive model assessing whether gut microbiome changes can predict downstream serum and brain responses.
+### A project by Anayah Shahzad and Mian Muhammad Qasim
+*Note: The research is currently ongoing. This README, as well as the other files, are subject to change with time*
+
+Cross-analysis of publicly available NASA OSDR mouse spaceflight multi-omics data from the gut and brain, identifying reproducible relationships between gut microbiome alterations and brain neuroinflammatory signatures. A literature-informed inferred serum layer will be constructed to investigate whether circulating molecular changes can serve as an intermediary between the gut and brain. relationships will then be used to develop a predictive model assessing whether gut microbiome changes can predict downstream serum and brain responses.
 
 ## 🎯 Research Question
 *“Can spaceflight-induced gut microbiome alterations be used to predict brain neuroinflammatory signatures through a literature-informed inferred serum intermediary using integrated multi-omics analysis?”*
